@@ -1,3 +1,5 @@
+LINK GITBUH : https://github.com/devsteak/Jogo-da-Velha-e-Jogo-de-Palpite.git
+
 Luan Melo – 21322465 
 Júlio Cesar De M. Dos Reis – 21264931 
 Guilherme Augusto – 21296478 
